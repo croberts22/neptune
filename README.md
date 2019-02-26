@@ -1,3 +1,5 @@
+![neptune](https://i.imgur.com/8OH7lrb.png)
+
 # neptune
 An extension to [github-linguist](https://github.com/github/linguist) that generates data through a given span of commits.
 
