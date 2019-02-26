@@ -1,0 +1,35 @@
+PATH
+  remote: .
+  specs:
+    neptune (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    charlock_holmes (0.7.6)
+    escape_utils (1.2.1)
+    github-linguist (7.2.0)
+      charlock_holmes (~> 0.7.6)
+      escape_utils (~> 1.2.0)
+      mime-types (>= 1.19)
+      rugged (>= 0.25.1)
+    mime-types (3.2.2)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2018.0812)
+    minitest (5.11.3)
+    rake (10.5.0)
+    rugged (0.27.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 2.0)
+  github-linguist (~> 7.2.0)
+  minitest (~> 5.0)
+  neptune!
+  rake (~> 10.0)
+  rugged (~> 0.27)
+
+BUNDLED WITH
+   2.0.1
