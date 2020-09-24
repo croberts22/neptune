@@ -17,7 +17,7 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2018.0812)
     minitest (5.11.3)
-    rake (10.5.0)
+    rake (13.0.1)
     rugged (0.27.7)
 
 PLATFORMS
@@ -28,7 +28,7 @@ DEPENDENCIES
   github-linguist (~> 7.2.0)
   minitest (~> 5.0)
   neptune!
-  rake (~> 10.0)
+  rake (~> 13.0)
   rugged (~> 0.27)
 
 BUNDLED WITH
